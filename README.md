@@ -44,21 +44,21 @@
 
 | Project | Description | Stack |
 |---|---|---|
-| [🧠 Neuro-Symbolic AI Chatbot](https://github.com/SahithReddVellenki/NeuroSymbolic-AI-Chatbot) | Hybrid LLM + rule-based system for explainable career decisions | Python, RAG, LLMs, LangChain |
-| [🖼️ Image Caption Generator](https://github.com/SahithReddVellenki) | CNN + LSTM deep learning pipeline for automatic image captioning | Python, CNN, LSTM |
-| [📊 Yelp Business Predictor](https://github.com/SahithReddVellenki/Yelp-Data-Set-project) | ML pipeline predicting business success from reviews & location data | Python, Scikit-learn, Plotly |
+| [🧠 Neuro-Symbolic AI Chatbot](https://github.com/SahithReddyVellenki/NeuroSymbolic-AI-Chatbot) | Hybrid LLM + rule-based system for explainable career decisions | Python, RAG, LLMs, LangChain |
+| [🖼️ Image Caption Generator](https://github.com/SahithReddyVellenki) | CNN + LSTM deep learning pipeline for automatic image captioning | Python, CNN, LSTM |
+| [📊 Yelp Business Predictor](https://github.com/SahithReddyVellenki/Yelp-Data-Set-project) | ML pipeline predicting business success from reviews & location data | Python, Scikit-learn, Plotly |
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SahithReddVellenki&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SahithReddVellenki&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SahithReddyVellenki&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SahithReddyVellenki&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SahithReddVellenki&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SahithReddyVellenki&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -73,5 +73,5 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SahithReddVellenki&style=flat-square&color=blue" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=SahithReddyVellenki&style=flat-square&color=blue" alt="Profile views"/>
 </p>
